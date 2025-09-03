@@ -1,0 +1,14 @@
+button {
+  background-color: #2563eb; /* biru */
+  color: white;
+  padding: 10px 16px;
+  border: none;
+  border-radius: 8px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+button:hover {
+  background-color: #1e40af; /* biru gelap saat hover */
+}
