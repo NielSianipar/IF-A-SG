@@ -41,7 +41,7 @@ function Hero() {
         {/* Bagian Gambar */}
         <div className="w-full lg:w-1/2 flex items-center justify-center mt-6 lg:mt-10">
           <img
-            src="/assets/rame.jpg"
+            src="/src/assets/rame.jpg"
             alt="profile"
             className="rounded-3xl shadow-2xl w-4/5 max-w-xs sm:max-w-sm md:max-w-md lg:max-w-lg mb-10 border-4 border-[#eceff1]"
           />
@@ -128,4 +128,5 @@ function Hero() {
 }
 
 export default Hero;
+
 
